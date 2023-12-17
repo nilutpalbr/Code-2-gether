@@ -49,6 +49,9 @@ font-family: 'Rubik', sans-serif; */
   text-align: center;
   height: 20%;
 }
+.developer{
+  font-size: medium;
+}
 
 #handle {
   border: 1px solid #848484;
